@@ -11,5 +11,5 @@
 
 ## Связаться со мной
 
-- LinkedIn: [example](linkedin.com/in/nikita-dubovoy)
+- LinkedIn: [Nikita Dubovoy](linkedin.com/in/nikita-dubovoy)
 - Email: nickduba7@gmail.com
