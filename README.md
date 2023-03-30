@@ -6,10 +6,10 @@
 
 ## Мои проекты
 
-- [Пример проекта на React](https://github.com/example/react-project)
-- [Пример проекта на Node.js и Express.js](https://github.com/example/node-express-project)
+- [Пример проекта на React](https://github.com/NikitDubovoy/movies-explorer-frontend)
+- [Пример проекта на Node.js и Express.js](https://github.com/NikitDubovoy/movies-explorer-api)
 
 ## Связаться со мной
 
-- LinkedIn: [example](https://www.linkedin.com/in/example/)
-- Email: example@gmail.com
+- LinkedIn: [example](linkedin.com/in/nikita-dubovoy)
+- Email: nickduba7@gmail.com
