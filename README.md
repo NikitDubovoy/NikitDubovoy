@@ -15,8 +15,6 @@
 
 ## Связаться со мной
 
-- LinkedIn: [Nikita Dubovoy](https://linkedin.com/in/nikita-dubovoy)
-- Email: 
 <div id="badges">
   <a href="https://linkedin.com/in/nikita-dubovoy">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -24,7 +22,7 @@
   <a href="nickduba7@gmail.com">
     <img src="https://img.shields.io/badge/gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <a href="[your-twitter-URL](https://t.me/Doobson)">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
